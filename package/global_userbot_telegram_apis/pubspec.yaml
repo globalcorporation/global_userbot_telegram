@@ -1,0 +1,21 @@
+name: 'global_userbot_telegram_apis'
+description: 'A sample command-line application.'
+version: '0.0.0'
+homepage: 'https://github.com/globalcorporation/general'
+repository: 'https://github.com/globalcorporation/global_userbot_telegram'
+issue_tracker: 'https://github.com/globalcorporation/general/issues'
+documentation: 'https://github.com/globalcorporation/global_userbot_telegram/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/globalcorporation'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment: 
+  sdk: '^3.2.3'
+dev_dependencies: 
+  lints: '^2.1.0'
+  test: '^1.24.0'

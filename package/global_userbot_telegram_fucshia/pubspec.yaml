@@ -1,0 +1,27 @@
+name: 'global_userbot_telegram_fucshia'
+description: 'A sample command-line application.'
+version: '0.0.0'
+homepage: 'https://github.com/globalcorporation/general'
+repository: 'https://github.com/globalcorporation/global_userbot_telegram'
+issue_tracker: 'https://github.com/globalcorporation/general/issues'
+documentation: 'https://github.com/globalcorporation/global_userbot_telegram/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/globalcorporation'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment: 
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: '>=1.17.0'
+dependencies: 
+  flutter: 
+    sdk: 'flutter'
+dev_dependencies: 
+  flutter_test: 
+    sdk: 'flutter'
+  flutter_lints: '^2.0.0'
+flutter: null
